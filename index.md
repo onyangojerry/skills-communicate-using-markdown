@@ -6,3 +6,6 @@
 def hello_world():
     print("Hello, world!")
 ```
+- [x] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
